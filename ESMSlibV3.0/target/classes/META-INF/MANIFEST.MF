@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
-Built-By: firnas
-Build-Jdk: 11.0.5
+Build-Jdk-Spec: 11
+Implementation-Title: ESMSlibV3.0
+Implementation-Version: 1.0-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
